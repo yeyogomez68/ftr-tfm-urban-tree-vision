@@ -1,0 +1,45 @@
+{
+    "DATA":
+    {
+        "TITLE":"Políticas de privacidad",
+        "PAGES":[
+            {
+                "ID":"1",
+                "TITLE":"Introducción",
+                "IMAGE":"",
+                "DESCRIPTION":"Esta Política de Privacidad describe cómo se recopilan, utilizan y protegen los datos recopilados por [Nombre de la Aplicación] durante el uso de nuestros servicios. Al utilizar nuestra aplicación, usted acepta las prácticas descritas en esta política.\n\nAl utilizar nuestra aplicación, usted acepta esta Política de Privacidad y nos autoriza a recopilar, utilizar y proteger su información de acuerdo con lo establecido anteriormente. Esta política puede actualizarse periódicamente, por lo que le recomendamos que la revise con regularidad para estar al tanto de cualquier cambio."
+            },
+            {
+                "ID":"2",
+                "TITLE":"Recopilación de Información",
+                "IMAGE":"",
+                "DESCRIPTION":"1.1. Información de Identificación: Recolectamos información de identificación, como el nombre del encuestado, la ubicación geográfica (departamento, municipio, corregimiento y barrio), fecha de la encuesta, número de visita, y la hora de inicio y finalización de la encuesta.\n\n1.2. Perfil Socioeconómico: Recopilamos información socioeconómica, incluyendo edad, sexo, tamaño del hogar, estado civil, nivel educativo, actividad económica principal, ingreso familiar, entre otros.\n\n1.3. Datos sobre la Extracción de Agua y Clima: Recolectamos datos relacionados con la extracción de agua, como la profundidad del pozo, cantidad de agua extraída, condiciones climáticas, entre otros.\n\n1.4. Rol de los Actores en el Manejo y Uso del Agua: Recolectamos información sobre la interacción con la autoridad ambiental, la comunicación con la comunidad y vecinos, así como la participación en planes comunitarios relacionados con el manejo del agua"
+            },
+            {
+                "ID":"3",
+                "TITLE":"Uso de la Información",
+                "IMAGE":"",
+                "DESCRIPTION":"2.1. Mejora de Servicios: Utilizamos la información recopilada para mejorar nuestros servicios y comprender mejor la toma de decisiones en la extracción de agua en contextos de sequía.\n\n2.2. Investigación Académica: La información recopilada se utiliza con fines de investigación académica y para compartir resultados relevantes con la comunidad científica.\n\n2.3. Confidencialidad: Garantizamos la confidencialidad de la información recopilada y nos comprometemos a no compartir datos personales identificables sin su consentimiento, excepto en los casos expresamente permitidos por la ley 1581 de 2012."
+            },
+            {
+                "ID":"4",
+                "TITLE":"Protección de Datos",
+                "IMAGE":"",
+                "DESCRIPTION":"3.1. Seguridad: Implementamos medidas de seguridad técnicas y organizativas para proteger los datos recopilados contra el acceso no autorizado, la divulgación, la alteración o destrucción.\n\n3.2. Acceso Restringido: Limitamos el acceso a su información personal a aquellos empleados, contratistas y agentes que necesiten conocer dicha información para operar, desarrollar o mejorar nuestros servicios."
+            },
+            {
+                "ID":"5",
+                "TITLE":"Consentimiento",
+                "IMAGE":"",
+                "DESCRIPTION":"4.1. Al utilizar nuestra aplicación y participar en nuestras encuestas, usted otorga su consentimiento para la recopilación y el uso de su información de acuerdo con esta Política de Privacidad"
+            },
+            {
+                "ID":"6",
+                "TITLE":"Contacto",
+                "IMAGE":"",
+                "DESCRIPTION":"5.1. Si tiene preguntas o inquietudes sobre esta Política de Privacidad, puede comunicarse con nosotros a través de info@utv-tfe.com"
+            }      
+
+        ]        
+    }   
+}

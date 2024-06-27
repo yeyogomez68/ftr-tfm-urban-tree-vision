@@ -1,0 +1,20 @@
+{
+    "DATA":
+    {
+        "TITLE":"Autenticación",
+        "PAGES":[
+            {
+                "ID":"1",
+                "TITLE":"Correo Electrónico",
+                "IMAGE":"assets/help/autenticacion_01.jpeg",
+                "DESCRIPTION":"Para tu autenticación requerimos que indiques un correo electrónico para enviarte un código de 4 digitos.\n\nDebes estar pendiente de la llegada del correo."                
+            },
+            {
+                "ID":"2",
+                "TITLE":"4 Digitos",
+                "IMAGE":"assets/help/autenticacion_02.jpeg",
+                "DESCRIPTION":"Revisa tu correo proveniente de: anfi.bio y obtendrás el código de 4 digitos"
+            }
+        ]        
+    }  
+}
